@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-tampa",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Tampa GIS — Tampa, Florida open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ee2ea82a7fea7bd1617f59a33d392fe7f635583dd1ae1756a4534ea0bc23c5d6",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-404a0f33c4a7417c2739ccd95652d55368e7a3eab12532b8ad12adf7a0881f7c",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
